@@ -2,6 +2,15 @@
 
 ## master (unreleased)
 
+### New features
+
+* Add wait multi-processes interface
+
+### Bugs fixed
+
+* Fix stdout compatibility issue for vs2015
+* Fix process arguments length limit
+
 ## v1.5.2
 
 ### New features
@@ -49,6 +58,15 @@
 # 更新日志
 
 ## master (开发中)
+
+### 新特性
+
+* 增加同时等待多个进程接口
+
+### Bugs修复
+
+* 修复stdout在vs2015以上版本的兼容性问题
+* 修复进程参数长度限制
 
 ## v1.5.2
 
